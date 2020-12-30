@@ -20,18 +20,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3678%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 4 Contributions in the Year 2020
- > 
-> 📦 7.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -58,16 +46,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Istanbul
-
 💬 Programming Languages: 
 Markdown                 14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  14 mins             █████████████████████████   100.0%
