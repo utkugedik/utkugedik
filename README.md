@@ -16,29 +16,29 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3678%20lines%20of%20code-blue)
 
-**I'm a night🦉** 
+**🐱 My Github Data** 
+
+> 🏆 11 Contributions in the Year 2020
+ > 
+> 📦 7.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌆 Daytime    7 commits      ██████████████░░░░░░░░░░░   58.33% 
 🌃 Evening    5 commits      ██████████░░░░░░░░░░░░░░░   41.67% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       5 commits      ██████████░░░░░░░░░░░░░░░   41.67% 
-Tuesday      2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Wednesday    3 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Saturday     1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
