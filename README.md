@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3678%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5296%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 7.2 kB Used in Github's Storage 
  > 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -47,13 +47,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.0%
+Markdown                 14 mins             ███████████████████████░░   95.31% 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+VS Code                  14 mins             ███████████████████████░░   95.31% 
+Android Studio           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0%
+Windows                  15 mins             █████████████████████████   100.0%
 
 ```
 
