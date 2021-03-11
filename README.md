@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17676%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19307%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 58 Contributions in the Year 2021
+> 🏆 60 Contributions in the Year 2021
  > 
 > 📦 12.4 kB Used in Github's Storage 
  > 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -47,17 +47,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Dart                     17 hrs 12 mins      ████████████████████████░   99.48% 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Dart                     22 hrs 45 mins      █████████████████████████   99.69% 
+Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  17 hrs 16 mins      █████████████████████████   99.94% 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+VS Code                  22 hrs 49 mins      █████████████████████████   99.95% 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Windows                  17 hrs 17 mins      █████████████████████████   100.0%
+Windows                  22 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 
