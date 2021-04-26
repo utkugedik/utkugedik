@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19307%20lines%20of%20code-blue)
 
@@ -47,15 +47,15 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Dart                     13 hrs 51 mins      ████████████████████████░   99.1% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+Dart                     13 hrs 35 mins      ████████████████████████░   99.08% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  13 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  13 hrs 42 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  13 hrs 59 mins      █████████████████████████   100.0%
+Windows                  13 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
