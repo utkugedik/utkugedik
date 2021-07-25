@@ -47,18 +47,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Dart                     11 mins             █████████████████████░░░░   84.82% 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
