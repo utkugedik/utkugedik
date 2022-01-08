@@ -16,29 +16,29 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2022
  > 
-> 📦 12.7 kB Used in GitHub's Storage 
+> 📦 13.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    15 commits     ███████░░░░░░░░░░░░░░░░░░   31.25% 
-🌃 Evening    26 commits     █████████████░░░░░░░░░░░░   54.17% 
-🌙 Night      7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.58%
+🌞 Morning    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+🌆 Daytime    13 commits     ███████░░░░░░░░░░░░░░░░░░   28.89% 
+🌃 Evening    24 commits     █████████████░░░░░░░░░░░░   53.33% 
+🌙 Night      6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 ```
 
@@ -47,20 +47,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Dart                     4 hrs 17 mins       ████████████████████████░   97.61% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
