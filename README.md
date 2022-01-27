@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
@@ -58,5 +58,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/01/2022 18:47:16 UTC
+ Last Updated on 27/01/2022 18:46:29 UTC
 <!--END_SECTION:waka-->
